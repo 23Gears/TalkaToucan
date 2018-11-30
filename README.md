@@ -1,2 +1,2 @@
 # TalkaToucan
-Bas kod f;r Talka Toucan projektet
+Bas kod till Talka Toucan projektet
